@@ -38,9 +38,9 @@ In order to accomplish this, we used ResNet50 and ImageNet to train the CNN base
 # Data Sources 🔗
 Here is our base kaggle data source that was used in our project. The other was a custom one in our Google Drive. 
 
-Link: https://www.kaggle.com/datasets/farjanakabirsamanta/skin-cancer-dataset 
+Kaggle Link: https://www.kaggle.com/datasets/farjanakabirsamanta/skin-cancer-dataset 
 
-EXAMPLE: Kaggle Datasets: Link to Kaggle Dataset
+Google Drive Link: https://drive.google.com/drive/folders/1_kN6l8okNBUPRR4b7RptPIrqVwSV1Sk3?usp=sharing
 
 # Installation 📦
 
